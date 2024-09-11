@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Stanley-mwangii
+- 👋 Hi, I’m @Stanley-mwangi
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ... software engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... stanoboyka@gmail.com
-- 😄 Pronouns: ...SK
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
